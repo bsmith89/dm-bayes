@@ -1,0 +1,8 @@
+jupyter
+numpy
+pandas
+patsy
+-e git+https://github.com/pymc-devs/pymc3#egg=pymc3
+scipy
+seaborn
+theano
